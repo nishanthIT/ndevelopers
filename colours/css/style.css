@@ -1974,7 +1974,7 @@ body.loaded .preloader {
     }
 
     .hero .hero-img img {
-        margin-left: -25px;
+        margin-left: -10px;
         width: 42rem !important;
         height: 50% !important;
         -o-object-fit: cover !important;
