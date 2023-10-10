@@ -1801,7 +1801,9 @@ body.loaded .preloader {
     font-weight: 600;
     color: #000;
     letter-spacing: -0.4rem;
-    width: 100%
+    width: 100%;
+    position: relative;
+    z-index: 20;
 }
 
 .hero .paragraph {
